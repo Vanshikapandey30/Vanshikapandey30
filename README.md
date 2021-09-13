@@ -12,7 +12,7 @@ I'm Vanshika Pandey 😃
 
 [1]: https://twitter.com/Vanshika302
 [2]: https://www.linkedin.com/in/vanshika-pandey-b448391a5/-->
-[website]: https://vanshp.netlify.app
+[website]: vanshika.tech
 
 ## ⚡ About Me
 -  I’m currently pursuing Btech in IT(Data Analysis) from MIT ADT University, Pune.
