@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects</title>
+</head>
+<style>
+     :root {
+        --background-dark: #2d3548;
+        --text-light: rgba(255, 255, 255, 0.6);
+        --text-lighter: rgba(255, 255, 255, 0.9);
+        --spacing-s: 8px;
+        --spacing-m: 16px;
+        --spacing-l: 24px;
+        --spacing-xl: 32px;
+        --spacing-xxl: 64px;
+        --width-container: 1200px;
+    }
+    
+    * {
+        border: 0;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    html {
+        height: 100%;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 14px;
+    }
+    
+    body {
+        height: 100%;
+    }
+    
+    .heading1 {
+        background-color: #0e284b;
+        text-align: center;
+        color: white;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    
+    .hero-section {
+        align-items: flex-start;
+        /* background-image: linear-gradient(15deg, #0f4667 0%, #2a6973 150%); */
+        background-color: #537895;
+        background-image: linear-gradient(315deg, #537895 0%, #09203f 74%);
+        display: flex;
+        min-height: 100%;
+        justify-content: center;
+        padding: var(--spacing-xxl) var(--spacing-l);
+    }
+    
+    .card-grid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-column-gap: var(--spacing-l);
+        grid-row-gap: var(--spacing-l);
+        max-width: var(--width-container);
+        width: 100%;
+    }
+    
+    @media(min-width: 540px) {
+        .card-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+    
+    @media(min-width: 960px) {
+        .card-grid {
+            grid-template-columns: repeat(4, 1fr);
+        }
+    }
+    
+    .card {
+        list-style: none;
+        position: relative;
+    }
+    
+    .card:before {
+        content: '';
+        display: block;
+        padding-bottom: 150%;
+        width: 100%;
+    }
+    
+    .card__background {
+        background-size: cover;
+        background-position: center;
+        border-radius: var(--spacing-l);
+        bottom: 0;
+        filter: brightness(0.75) saturate(1.2) contrast(0.85);
+        left: 0;
+        position: absolute;
+        right: 0;
+        top: 0;
+        transform-origin: center;
+        transform: scale(1) translateZ(0);
+        transition: filter 200ms linear, transform 200ms linear;
+    }
+    
+    .card:hover .card__background {
+        transform: scale(1.05) translateZ(0);
+    }
+    
+    .card-grid:hover>.card:not(:hover) .card__background {
+        filter: brightness(0.5) saturate(0) contrast(1.2) blur(5px);
+    }
+    
+    .card__content {
+        left: 0;
+        padding: var(--spacing-l);
+        position: absolute;
+        top: 0;
+    }
+    
+    .card__category {
+        color: var(--text-light);
+        font-size: 0.9rem;
+        margin-bottom: var(--spacing-s);
+        text-transform: uppercase;
+    }
+    
+    .card__heading {
+        color: var(--text-lighter);
+        font-size: 1.9rem;
+        text-shadow: 2px 2px 20px rgba(0, 0, 0, 0.2);
+        line-height: 1.4;
+        word-spacing: 100vw;
+    }
+</style>
+
+<body>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+    <h1 class="heading1">My Projects</h1>
+    <section class="hero-section">
+
+        <div class="card-grid">
+            <a class="card" target="_blank" href="https://github.com/Vanshikapandey30/Nowcasting">
+                <div class="card__background" style="background-image: url(https://images.unsplash.com/photo-1516912481808-3406841bd33c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2VhdGhlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)">
+                </div>
+                <div class="card__content">
+
+                    <h3 class="card__heading">Nowcasting IMD</h3>
+                    <p class="card__category">Implemented a project based on ML and AI with my team members.
+                        <br>Built a U-net model which nowcast the weather.
+                    </p>
+                </div>
+            </a>
+            <a class="card" target="_blank" href="https://github.com/Vanshikapandey30/smile-detector">
+                <div class="card__background" style="background-image: url(https://images.unsplash.com/photo-1590698933947-a202b069a861?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHNtaWxlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)">
+                </div>
+                <div class="card__content">
+                    <h3 class="card__heading">Smile Dectector</h3>
+                    <p class="card__category">A python project based on opencv which recognise the face of a person and detects the smile. I have used haarcascade in this project.</p>
+                </div>
+            </a>
+            <a class="card" target="_blank" href="https://github.com/Vanshikapandey30/blogweb">
+                <div class="card__background" style="background-image: url(https://images.unsplash.com/photo-1541140911322-98afe66ea6da?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80)">
+                </div>
+                <div class="card__content">
+                    <h3 class="card__heading">Blog Website</h3>
+                    <p class="card__category">Built a blog website according to the client requirements<br>which includes publishing articles, submission of articles through mail, listing previous issues & current issues etc.</p>
+                </div>
+                </li>
+                <a class="card" target="_blank" href="https://github.com/Vanshikapandey30/python-dictionary">
+                    <div class="card__background" style="background-image: url(https://images.unsplash.com/photo-1530970279610-8234f88384c3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGRpY3Rpb25hcnl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)">
+                    </div>
+                    <div class="card__content">
+
+                        <h3 class="card__heading">Python Dictionary</h3>
+                        <p class="card__category">I have built a dictionary using python which basically gives the meaning of words,we ask for.</p>
+                    </div>
+                </a>
+                <a class="card" target="_blank" href="https://github.com/Vanshikapandey30/WeStandTogether">
+                    <div class="card__background" style="background-image: url(https://images.unsplash.com/photo-1560821829-18a5fbb8b4ce?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dW5pdHl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)">
+                    </div>
+                    <div class="card__content">
+
+                        <h3 class="card__heading">We Stand Together</h3>
+                        <p class="card__category">During this pandemic situation we need to stand together and help each other in this tough time and therefore we have created this app I built it using reactjs and firebase and I am thinking to integrate it further. I learned to
+                            work with npm and it was a great experience for me.</p>
+                    </div>
+                </a>
+                <a class="card" target="_blank" href="https://github.com/Vanshikapandey30/E-Pocket-">
+                    <div class="card__background" style="background-image: url(https://images.unsplash.com/photo-1614260937422-f93aec4da8c5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cG9ja2V0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)">
+                    </div>
+                    <div class="card__content">
+
+                        <h3 class="card__heading">E-Pocket Management System</h3>
+                        <!-- <p class="card__category">I have built a dictionary using python which basically gives the meaning of words,we ask for.</p> -->
+                    </div>
+                </a>
+    </section>
+</body>
+
+</html>
