@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-pandeyvanshi3028@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pandeyvanshi3028@gmail.com)](mailto:pandeyvanshi3028@gmail.com)
 
 I'm Vanshika Pandey 😃
-
+<img align="right" alt="PNG" src="https://github.com/Anjan50/Anjan50/blob/main/Untitled%20design%20(14).png" width="300" height="300" />
 <!-- Links to my social media accounts 
 
 [1]: https://twitter.com/Vanshika302
