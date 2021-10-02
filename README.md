@@ -15,6 +15,9 @@ I'm Vanshika Pandey 😃
 -  I’m looking to collaborate on projects and help with internships.
 -  Please visit my portfolio [website].
 -  Contact me: pandeyvanshi3028@gmail.com
+
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=Vanshikapandey30&count_private=true&show_icons=truehow_icons=true&hide_border=true" /> <br>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Vanshikapandey30&show_icons=true&locale=en&layout=compact" alt="Vanshikapandey30" />
 <img align="right" alt="PNG" src="https://github.com/Vanshikapandey30/Vanshikapandey30/blob/main/assets/img/cat.png" width="300" height="300" />
 <!-- Links to my social media accounts 
 
