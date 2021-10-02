@@ -20,6 +20,7 @@ I'm Vanshika Pandey 😃
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=Vanshikapandey30&theme=dark&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Vanshikapandey30&theme=dark&show_icons=true&locale=en&layout=compact" alt="Vanshikapandey30"  />
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshikapandey30&theme=dark" alt="Vanshikapandey30" /></p>
 <!-- Links to my social media accounts 
 
 [1]: https://twitter.com/Vanshika302
