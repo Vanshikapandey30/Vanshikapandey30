@@ -12,7 +12,7 @@ I'm Vanshika Pandey 😃
 ## ⚡ About Me
 -  I’m currently pursuing Btech in IT(Data Analytis) from MIT ADT University, Pune.
 -  I’m currently learning ML and DL concepts.
--  I’m looking to collaborate on projects and help with internships.
+-  I’m looking to collaborate on projects.
 -  Please visit my portfolio [website].
 -  Contact me: pandeyvanshi3028@gmail.com
 <img align="right" alt="PNG" src="https://github.com/Vanshikapandey30/Vanshikapandey30/blob/main/assets/img/cat.png" width="300" height="300" />
