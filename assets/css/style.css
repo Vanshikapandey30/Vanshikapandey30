@@ -738,23 +738,11 @@ body {
 
 .card-grid {
     display: grid;
-    grid-template-columns: repeat(1, 1fr);
+    grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
     grid-column-gap: var(--spacing-l);
     grid-row-gap: var(--spacing-l);
     max-width: var(--width-container);
     width: 100%;
-}
-
-@media(min-width: 540px) {
-    .card-grid {
-        grid-template-columns: repeat(2, 1fr);
-    }
-}
-
-@media(min-width: 960px) {
-    .card-grid {
-        grid-template-columns: repeat(4, 1fr);
-    }
 }
 
 .card {
