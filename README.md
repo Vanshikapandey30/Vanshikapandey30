@@ -11,7 +11,7 @@ I'm Vanshika Pandey 😃
 
 ## ⚡ About Me
 -  Check out my Insta Page for daily coding tips [codecrookshanks]
--  I’m currently pursuing Btech in IT(Data Analytis) from MIT ADT University, Pune.
+-  I’m currently pursuing Btech in IT(Data Analytics) from MIT ADT University, Pune.
 -  I’m currently learning ML and DL concepts.
 -  I’m looking to collaborate on projects.
 -  Please visit my portfolio [website].
