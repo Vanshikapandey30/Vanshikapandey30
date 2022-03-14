@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Vanshika302-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Vanshika302)](https://twitter.com/Vanshika302) [![Linkedin Badge](https://img.shields.io/badge/-VanshikaPandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanshika-pandey-b448391a5/)](https://www.linkedin.com/in/vanshika-pandey-b448391a5/) 
 [![Gmail Badge](https://img.shields.io/badge/-pandeyvanshi3028@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pandeyvanshi3028@gmail.com)](mailto:pandeyvanshi3028@gmail.com)
 
-I'm Vanshika Pandey 😃
+I'm Vanshika Pandey😃
 
 
 ## ⚡ About Me
