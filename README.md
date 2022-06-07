@@ -1,4 +1,4 @@
-### HELLO, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### HELLO, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
  <!-- Actual text -->
 ![](y.gif)
 ![](x.gif)
