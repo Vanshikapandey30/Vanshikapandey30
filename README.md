@@ -12,9 +12,7 @@ I'm Vanshika Pandey😃
 ## ⚡ About Me
 -  Check out my Insta Page for daily coding tips [codecrookshanks]
 -  I’m currently pursuing Btech in IT(Data Analytics) from MIT ADT University, Pune.
--  I’m currently learning ML and DL concepts.
 -  I’m looking to collaborate on projects.
--  Please visit my portfolio [website].
 -  Contact me: pandeyvanshi3028@gmail.com
 <img align="right" alt="PNG" src="https://github.com/Vanshikapandey30/Vanshikapandey30/blob/main/assets/img/cat.png" width="300" height="300" />
 
@@ -26,7 +24,6 @@ I'm Vanshika Pandey😃
 
 [1]: https://twitter.com/Vanshika302
 [2]: https://www.linkedin.com/in/vanshika-pandey-b448391a5/-->
-[website]: https://vanshika.tech/
 [codecrookshanks]: https://www.instagram.com/codecrookshanks/
 
 
