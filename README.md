@@ -22,7 +22,7 @@ I'm Vanshika Pandey😃
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshikapandey30&theme=dark" alt="Vanshikapandey30" /></p>
 <!-- Links to my social media accounts 
 
-[1]: https://twitter.com/Vanshika302
+[1]: https://twitter.com/Vanshikatech
 [2]: https://www.linkedin.com/in/vanshika-pandey-b448391a5/-->
 [codecrookshanks]: https://www.instagram.com/codecrookshanks/
 
