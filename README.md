@@ -1,6 +1,6 @@
 ### HELLO, I'm Vanshika! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img src="https://github.com/Vanshikapandey30/Vanshikapandey30/assets/62590661/25f3bd77-ce0f-4525-bd67-0af2b93f5748" width="300px" height="100">
+<img src="https://github.com/Vanshikapandey30/Vanshikapandey30/assets/62590661/25f3bd77-ce0f-4525-bd67-0af2b93f5748" width="400px" height="250px">
  
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/KcxsDRjGft) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/codecrookshanks) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vanshika-pandey-b448391a5/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@vanshika30) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vanshikatech) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Vanshikapandey30) 
