@@ -8,7 +8,7 @@
 ## ⚡ About Me
 -  I'm a software developer
 -  I’ve pursued a Btech in IT(Data Analytics) from MIT ADT University, Pune.
--  Contact me: pandeyvanshi3028@gmail.com
+-  Contact me: reachoutvanshikap@gmail.com
   
 <img align="right" alt="PNG" src="https://github.com/Vanshikapandey30/Vanshikapandey30/blob/main/assets/img/cat.png" width="200" height="200" />
 
